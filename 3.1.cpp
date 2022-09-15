@@ -1,3 +1,11 @@
+/*
+Author: Anita Prova
+Course: CSCI-135
+Instructor: Genady Maryash
+Assignment: Homework E3.1
+The program takes an integer and tells you whether its positive, negative or zero. 
+*/
+
 #include <iostream> 
 using namespace std;
 
